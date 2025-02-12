@@ -95,6 +95,3 @@ print(predicted_label)
 - Hyperparameter tuning can improve the model's performance.
 - Data augmentation techniques can be applied to enhance the dataset.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
